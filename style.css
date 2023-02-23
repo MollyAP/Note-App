@@ -1,0 +1,63 @@
+body{
+  background-image: url(images/Defaultbackground.png);
+  background-size: 100%;
+  background-color: #a282a2;
+  color: #f8f8ff;
+  font-size: 150%;    
+}
+.box{
+  height: 50%;
+  width: 60%;
+  background-color: #0a0a0a;
+  padding: 5%;
+  border: solid 5px #826982;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: 40%;
+}
+xmp{
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  background-color: #1c1a1c;
+  border: solid 5px #826982;
+  border-radius: 25px;
+  padding: 5%;
+
+}
+h1{
+  text-align: center;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  max-width: 60%;
+  height: auto;
+  background-color: #1c1a1c;
+  border: solid 5px #826982;
+  border-radius: 25px;
+}
+mark{
+color: #f8f8ff;
+background-color: #a282a2;
+border-radius: 5px;
+padding-left: 4px;
+padding-right: 4px;
+}
+button{
+  height: auto;
+  width: auto;
+  background-color: #0a0a0a;
+  color: #f8f8ff;
+  border: solid 2px #826982;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 1%;
+}
